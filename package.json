@@ -1,6 +1,7 @@
 {
   "name": "kuang-core",
   "version": "0.0.1",
+  "private": true,
   "description": "Core module for kuang Framework",
   "main": "index.js",
   "scripts": {
